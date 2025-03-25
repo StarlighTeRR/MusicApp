@@ -1,6 +1,6 @@
 
 // Базовый URL API сервера
-const API_BASE_URL = 'http://localhost:Port/api'; // Измените на URL вашего сервера
+const API_BASE_URL = 'http://localhost:5298/api'; 
 
 /**
  * Получение списка всех музыкантов с их альбомами
