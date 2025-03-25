@@ -1,0 +1,20 @@
+.tree ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .tree li {
+    margin-bottom: 5px;
+  }
+  
+  .tree li span {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .tree li span:hover {
+    background-color: #eee;
+  }

@@ -1,0 +1,47 @@
+.app {
+  display: flex;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.musicians-container {
+  flex: 1;
+  padding: 15px;
+  border-right: 1px solid #eee;
+  max-width: 250px;
+}
+
+.albums-container {
+  flex: 1;
+  padding: 15px;
+  border-right: 1px solid #eee;
+  max-width: 250px;
+}
+
+.tracks-container {
+  flex: 2;
+  padding: 15px;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.loading {
+  color: #1890ff;
+  padding: 10px;
+  background-color: #e6f7ff;
+  border-radius: 4px;
+}
+
+.error {
+  color: #f5222d;
+  padding: 10px;
+  background-color: #fff1f0;
+  border-radius: 4px;
+  border: 1px solid #ffa39e;
+}

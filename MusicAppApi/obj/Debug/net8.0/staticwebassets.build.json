@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "swh8ovXm+jaK3g9386Vrc8u+D33pQYQ7Cvk1AoTse3g=",
+  "Source": "MusicAppApi",
+  "BasePath": "_content/MusicAppApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

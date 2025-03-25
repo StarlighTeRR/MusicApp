@@ -1,0 +1,32 @@
+.track-actions {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.like-button,
+.dislike-button,
+.listened-button,
+.favorite-button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.like-button.active,
+.dislike-button.active {
+  background-color: lightgreen;
+}
+
+.listened-button.active {
+  background-color: lightblue;
+  cursor: default;
+}
+
+.favorite-button.active {
+  background-color: yellow;
+}
+
+.error-message {
+  color: red;
+  margin-top: 5px;
+}
